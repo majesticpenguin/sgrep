@@ -1,7 +1,7 @@
 # sgrep (super grep)
 
 ###Description
-ability to open file from a grep result
+ability to open file from a grep result without having to leave the keyboard
 
 ###Usage
 ```bash
